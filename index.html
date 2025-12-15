@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News App</title>
+  <link rel="stylesheet" href="index.css">
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+  <style>
+    
+    .category-selector {
+      margin: 10px 10px 30px 10px;
+      padding: 15px 20px;
+      background: #f8f9fa;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    
+    .category-selector h2 {
+      font-size: 16px;
+      margin: 0 0 12px 0;
+      color: #333;
+      display: flex;
+      align-items: center;
+    }
+    
+    .category-selector h2::before {
+      content: '📂';
+      margin-right: 8px;
+    }
+    
+    .category-buttons {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    
+    .category-btn {
+      padding: 8px 16px;
+      border: 2px solid #6091d3;
+      background: white;
+      color: #6091d3;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: bold;
+      transition: all 0.2s ease;
+      outline: none;
+    }
+    
+    .category-btn:hover {
+      background: #e8f0fe;
+      transform: translateY(-1px);
+    }
+    
+    .category-btn.active {
+      background: #6091d3;
+      color: white;
+      box-shadow: 0 2px 8px rgba(96, 145, 211, 0.3);
+    }
+    
+    
+    .loading {
+      text-align: center;
+      padding: 40px;
+      color: #666;
+      font-size: 16px;
+    }
+    
+    
+    .error-message {
+      margin: 10px;
+      padding: 15px 20px;
+      background: #fee;
+      color: #c33;
+      border-radius: 8px;
+      border-left: 4px solid #c33;
+    }
+    
+    
+    .no-articles {
+      text-align: center;
+      padding: 60px 20px;
+      color: #999;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <h1 class="title">News App</h1>
+    
+    
+    <div class="category-selector">
+      <h2>カテゴリを選択:</h2>
+      <div class="category-buttons">
+        <button 
+          class="category-btn"
+          :class="{ active: selectedCategory === 'all' }"
+          @click="selectCategory('all')"
+        >
+          すべて
+        </button>
+        <button 
+          class="category-btn"
+          :class="{ active: selectedCategory === 'technology' }"
+          @click="selectCategory('technology')"
+        >
+          💻 テクノロジー
+        </button>
+        <button 
+          class="category-btn"
+          :class="{ active: selectedCategory === 'business' }"
+          @click="selectCategory('business')"
+        >
+          💼 ビジネス
+        </button>
+        <button 
+          class="category-btn"
+          :class="{ active: selectedCategory === 'sports' }"
+          @click="selectCategory('sports')"
+        >
+          ⚽ スポーツ
+        </button>
+        <button 
+          class="category-btn"
+          :class="{ active: selectedCategory === 'entertainment' }"
+          @click="selectCategory('entertainment')"
+        >
+          🎬 エンタメ
+        </button>
+      </div>
+    </div>
+
+    <div v-if="error" class="error-message">
+      {{ error }}
+    </div>
+
+    <div v-if="loading" class="loading">
+      📡 ニュースを読み込み中...
+    </div>
+
+    <ul class="article" v-if="!loading && filteredArticles.length > 0">
+      <li class="article-item" v-for="article in filteredArticles" :key="article.id">
+        <h2 class="article-title">
+          <a :href="article.link" target="_blank">{{ article.title }}</a>
+        </h2>
+        <p class="article-description">{{ article.description }}</p>
+        <ul class="article-tags">
+          <li class="article-tag" v-for="(tag, index) in article.tags" :key="index">{{ tag }}</li>
+        </ul>
+      </li>
+    </ul>
+
+    <div v-if="!loading && filteredArticles.length === 0 && !error" class="no-articles">
+      📭 このカテゴリにはまだ記事がありません
+    </div>
+  </div>
+
+  <script>
+    new Vue({
+      el: '#app',
+      data: {
+        articles: [],               // 全記事データ
+        selectedCategory: 'all',    // 選択中のカテゴリ
+        loading: true,              // ローディング状態
+        error: null                 // エラーメッセージ
+      },
+      computed: {
+
+        filteredArticles() {
+          if (this.selectedCategory === 'all') {
+            return this.articles;
+          }
+          return this.articles.filter(article => 
+            article.category === this.selectedCategory
+          );
+        }
+      },
+      mounted() {
+
+        fetch('all_topics.json')
+          .then(response => {
+            if (!response.ok) {
+              throw new Error('all_topics.jsonが見つかりません');
+            }
+            return response.json();
+          })
+          .then(data => {
+            this.articles = data;
+            this.loading = false;
+            console.log(`✅ ${data.length}件のニュースを読み込みました`);
+          })
+          .catch(error => {
+            console.error('Error:', error);
+            this.error = 'ニュースの読み込みに失敗しました。fetch_news.pyを実行してall_topics.jsonを生成してください。';
+            this.loading = false;
+          });
+      },
+      methods: {
+
+        selectCategory(category) {
+          this.selectedCategory = category;
+          console.log(`📂 カテゴリ切り替え: ${category}`);
+        }
+      }
+    });
+  </script>
+</body>
+</html>

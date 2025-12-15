@@ -1,0 +1,558 @@
+[
+  {
+    "id": 1,
+    "title": "オンライン詐欺 闇マーケット実態",
+    "link": "https://news.yahoo.co.jp/pickup/6562586?source=rss",
+    "description": "",
+    "category": "technology",
+    "tags": [
+      "オンライン詐欺",
+      "闇マーケット",
+      "サイバー犯罪",
+      "ダークウェブ"
+    ],
+    "pubDate": "2025-12-15 01:37:42",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 2,
+    "title": "世界中で人気「Roblox」注意点",
+    "link": "https://news.yahoo.co.jp/pickup/6562516?source=rss",
+    "description": "",
+    "category": "technology",
+    "tags": [
+      "ロブロックス",
+      "メタバース",
+      "注意点",
+      "オンラインゲーム"
+    ],
+    "pubDate": "2025-12-14 08:44:27",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 3,
+    "title": "マイナ保険証 多いトラブルと要因",
+    "link": "https://news.yahoo.co.jp/pickup/6562500?source=rss",
+    "description": "",
+    "category": "technology",
+    "tags": [
+      "マイナ保険証",
+      "トラブル",
+      "健康保険証",
+      "制度問題"
+    ],
+    "pubDate": "2025-12-14 06:56:13",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 4,
+    "title": "愛知県が閉鎖したHP 悪用被害",
+    "link": "https://news.yahoo.co.jp/pickup/6562489?source=rss",
+    "description": "",
+    "category": "technology",
+    "tags": [
+      "愛知県",
+      "ホームページ悪用",
+      "サイバーセキュリティ",
+      "閉鎖サイト"
+    ],
+    "pubDate": "2025-12-14 05:38:15",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 5,
+    "title": "Safari/WebKitにセキュリティ攻撃、iPhone、iPad、Mac、Apple Watchなど幅広い製品に影響／Appleがセキュリティ更新を実施",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2071234.html",
+    "description": "米Appleは12月12日（現地時間）、セキュリティアップデートを実施した。「iOS 26.2」「iPadOS 26.2」のほかにも、多くの製品が対象となっている（括弧内はCVE番号が割り振られた脆弱性の件数）。",
+    "category": "technology",
+    "tags": [
+      "Apple",
+      "セキュリティアップデート",
+      "Safari",
+      "WebKit",
+      "セキュリティ脆弱性"
+    ],
+    "pubDate": "",
+    "source": "forest.watch.impress.co.jp"
+  },
+  {
+    "id": 6,
+    "title": "「Google 翻訳」が「Gemini」の力で高品質に、慣用句やスラングも理解し、微妙なニュアンスも表現／アプリとGoogle検索に導入、ライブ音声翻訳、言語学習機能もアップデート",
+    "link": "https://forest.watch.impress.co.jp/docs/news/2071191.html",
+    "description": "米Googleは12月12日（現地時間）、「Google 翻訳」のアップデートを発表した。同社の生成AI「Gemini」を活用した最先端のテキスト翻訳品質を、「Google 検索」と翻訳アプリにもたらすとしている。翻訳アプリには、同社の新しい音声モデル「Gemini 2.5 Flash Native Audio」を用いたリアルタイム翻訳機能もベータ版として提供されるとのこと。",
+    "category": "technology",
+    "tags": [
+      "Google 翻訳",
+      "Gemini",
+      "生成AI",
+      "高品質翻訳",
+      "リアルタイム翻訳"
+    ],
+    "pubDate": "",
+    "source": "forest.watch.impress.co.jp"
+  },
+  {
+    "id": 7,
+    "title": "「Chrome」へのセキュリティ攻撃に注目が集まる ～窓の杜アクセスランキング［2025/12/08～2025/12/14]【記事アクセスランキング】",
+    "link": "https://forest.watch.impress.co.jp/docs/serial/accessranking/2071183.html",
+    "description": "前週に閲覧数の多かった記事を、上位10位までレポートします。",
+    "category": "technology",
+    "tags": [
+      "アクセスランキング",
+      "Chrome",
+      "セキュリティ",
+      "窓の杜"
+    ],
+    "pubDate": "",
+    "source": "forest.watch.impress.co.jp"
+  },
+  {
+    "id": 8,
+    "title": "技術書の読み放題サービス「TechLib」が開始、インプレス、オーム社、翔泳社など10社が参加／本文も含めた全文検索機能アリ、ソースコードはコピペ可能【Book Watch/ニュース】",
+    "link": "https://forest.watch.impress.co.jp/docs/bookwatch/news/2070645.html",
+    "description": "テックリブ（株）と（株）Legal Technologyは12月15日、ITエンジニア向け技術書籍の読み放題サービス「TechLib」の提供を開始した。月額3,080円のサブスクリプションで利用でき、個人では10日間、法人では15日間の試用が可能。法人の場合はボリュームディスカウントも用意されている。",
+    "category": "technology",
+    "tags": [
+      "読み放題サービス",
+      "技術書",
+      "ITエンジニア",
+      "TechLib"
+    ],
+    "pubDate": "",
+    "source": "forest.watch.impress.co.jp"
+  },
+  {
+    "id": 9,
+    "title": "大企業製造業 景況感3期連続改善",
+    "link": "https://news.yahoo.co.jp/pickup/6562579?source=rss",
+    "description": "",
+    "category": "business",
+    "tags": [
+      "製造業",
+      "景況感",
+      "大企業",
+      "景気回復",
+      "経済動向"
+    ],
+    "pubDate": "2025-12-15 00:05:39",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 10,
+    "title": "ルンバのiRobot 米破産法を申請",
+    "link": "https://news.yahoo.co.jp/pickup/6562600?source=rss",
+    "description": "",
+    "category": "business",
+    "tags": [
+      "iRobot",
+      "ルンバ",
+      "破産申請",
+      "経営破綻",
+      "ロボット掃除機"
+    ],
+    "pubDate": "2025-12-15 03:33:57",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 11,
+    "title": "北海道拓殖銀行 最後の頭取が死去",
+    "link": "https://news.yahoo.co.jp/pickup/6562605?source=rss",
+    "description": "",
+    "category": "business",
+    "tags": [
+      "北海道拓殖銀行",
+      "頭取",
+      "死去",
+      "岡田邦彦",
+      "金融破綻"
+    ],
+    "pubDate": "2025-12-15 04:33:24",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 12,
+    "title": "SS義塾社長 会社を乗っ取られた",
+    "link": "https://news.yahoo.co.jp/pickup/6562604?source=rss",
+    "description": "",
+    "category": "business",
+    "tags": [
+      "会社乗っ取り",
+      "SS義塾",
+      "社長",
+      "経営権争い"
+    ],
+    "pubDate": "2025-12-15 04:17:51",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 13,
+    "title": "足立区14人死傷暴走事故 危険運転致死などの疑いで再逮捕",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015004191000",
+    "description": "11月、東京 足立区の国道で乗用車が暴走し歩行者などを次々にはね、2人が死亡し12人が重軽傷を負った事故で、この車を盗んだ疑いで逮捕された37歳の容疑者が当時、赤信号を無視して交差点に進入し、横断歩道…",
+    "category": "business",
+    "tags": [
+      "足立区暴走事故",
+      "危険運転致死",
+      "14人死傷",
+      "再逮捕"
+    ],
+    "pubDate": "2025-12-15 04:45:08",
+    "source": "nhk.or.jp"
+  },
+  {
+    "id": 14,
+    "title": "福岡 2人が刺された事件 30歳の容疑者を殺人未遂の疑いで逮捕",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015003921000",
+    "description": "14日、福岡市中央区の商業施設などで男女2人が刃物で刺された事件で、警察は、30歳の容疑者を男性に対する殺人未遂の疑いで逮捕しました。調べに対し「殺そうと思って刺した」と容疑を認めているということで、…",
+    "category": "business",
+    "tags": [
+      "殺人未遂",
+      "福岡",
+      "刺傷事件",
+      "逮捕",
+      "商業施設"
+    ],
+    "pubDate": "2025-12-15 03:01:20",
+    "source": "nhk.or.jp"
+  },
+  {
+    "id": 15,
+    "title": "ルンバのメーカー「アイロボット」連邦破産法第11条の適用申請",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015004041000",
+    "description": "ロボット掃除機の「ルンバ」を手がけるアメリカの「アイロボット」が、競争の激化などから業績が低迷して経営に行き詰まり、14日、日本の民事再生法にあたる連邦破産法第11条の適用を申請したと発表しました。",
+    "category": "business",
+    "tags": [
+      "ルンバ",
+      "アイロボット",
+      "破産申請",
+      "ロボット掃除機"
+    ],
+    "pubDate": "2025-12-15 02:47:40",
+    "source": "nhk.or.jp"
+  },
+  {
+    "id": 16,
+    "title": "上野動物園の双子のパンダ 来月中国に返還へ 国内ゼロ頭に",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015003971000",
+    "description": "来年2月に返還期限を迎える上野動物園の双子のジャイアントパンダ「シャオシャオ」と「レイレイ」について、来月下旬に中国に返還する見通しとなったことが関係者への取材でわかりました。2頭が、返還されれば53…",
+    "category": "business",
+    "tags": [
+      "パンダ",
+      "上野動物園",
+      "返還",
+      "シャオシャオ",
+      "レイレイ"
+    ],
+    "pubDate": "2025-12-15 03:27:20",
+    "source": "nhk.or.jp"
+  },
+  {
+    "id": 17,
+    "title": "スマホ新法で笑う業界はマンガ、婚活、推し活…6兆円市場の業界別・利益激変予想",
+    "link": "https://biz-journal.jp/company/post_392630.html",
+    "description": "●この記事のポイント\n・スマホ新法で崩れる「30％手数料」の壁。マンガ、婚活、推し活、Web3など6兆円市場で、利益構造と勝者がどう変わるのかを業界別に読み解く。\n・スマホ新法の本質は値下げではなく主導権の移動だ。マンガは快晴、婚活は広告戦争、推し活とNFTは急変──勝者と敗...",
+    "category": "business",
+    "tags": [
+      "スマホ新法",
+      "プラットフォーム規制",
+      "利益構造変化",
+      "業界再編",
+      "マンガ・婚活市場"
+    ],
+    "pubDate": "2025-12-14 21:00:08",
+    "source": "biz-journal.jp"
+  },
+  {
+    "id": 18,
+    "title": "ウーバー、楽天と連携でタクシー王者「GO」に勝負…ポイント全額負担に込めた本気度",
+    "link": "https://biz-journal.jp/company/post_392633.html",
+    "description": "●この記事のポイント\n・ウーバーが楽天グループと提携を拡大し、楽天ポイント原資を全額負担する異例の戦略でタクシー配車アプリ王者「GO」に挑む。デリバリーで築いた基盤を生かし、日本のモビリティ市場で主導権奪取を狙う。\n・配車で苦戦してきたウーバーは、全国展開と楽天経済圏を武器に反...",
+    "category": "business",
+    "tags": [
+      "ウーバー・楽天提携",
+      "タクシー配車アプリ競争",
+      "GO",
+      "ポイント戦略",
+      "モビリティ市場"
+    ],
+    "pubDate": "2025-12-14 20:55:11",
+    "source": "biz-journal.jp"
+  },
+  {
+    "id": 19,
+    "title": "驚異のユーザー1200万人…BTSからミセスやカワラボも参入「Weverse」の実力",
+    "link": "https://biz-journal.jp/company/post_392622.html",
+    "description": "●この記事のポイント\n・月間アクティブユーザー1200万人、参加アーティスト170組超―Weverseは「滞在時間」ではなく「ユーザーの幸福」をKPIに置く\n・チェ・ジュンウォン代表が語る成長の本質は「負の感情を排除し、没入の深化を支える」次世代型プラットフォーム設計\n・We...",
+    "category": "business",
+    "tags": [
+      "Weverse",
+      "BTS",
+      "ユーザー1200万人",
+      "次世代プラットフォーム",
+      "没入感"
+    ],
+    "pubDate": "2025-12-13 21:00:03",
+    "source": "biz-journal.jp"
+  },
+  {
+    "id": 20,
+    "title": "生成AI戦争、真の勝者はアドビか…OpenAIとグーグルすら下請け、「Firefly」の戦略",
+    "link": "https://biz-journal.jp/company/post_392626.html",
+    "description": "●この記事のポイント\n・OpenAIやグーグルの高性能AIが注目される一方、著作権クリアと実務特化で企業利用を急拡大させるアドビが、生成AIビジネスの“隠れた勝者”として浮上している。\n・Fireflyは権利クリア済みデータで学習し、CMや広告に安心して使える強みを持つ。さらに...",
+    "category": "business",
+    "tags": [
+      "生成AI",
+      "アドビ",
+      "Firefly",
+      "著作権クリア",
+      "企業利用"
+    ],
+    "pubDate": "2025-12-13 20:55:26",
+    "source": "biz-journal.jp"
+  },
+  {
+    "id": 21,
+    "title": "槙野智章監督 妻と離れ単身赴任",
+    "link": "https://news.yahoo.co.jp/pickup/6562609?source=rss",
+    "description": "",
+    "category": "sports",
+    "tags": [
+      "槙野智章",
+      "単身赴任",
+      "サッカー監督"
+    ],
+    "pubDate": "2025-12-15 04:46:13",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 22,
+    "title": "サッカーU-22日本代表の27人発表",
+    "link": "https://news.yahoo.co.jp/pickup/6562602?source=rss",
+    "description": "",
+    "category": "sports",
+    "tags": [
+      "サッカーU-22日本代表",
+      "メンバー発表",
+      "サッカー",
+      "パリ五輪"
+    ],
+    "pubDate": "2025-12-15 03:49:52",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 23,
+    "title": "中日 ミゲル・サノ獲得で大筋合意",
+    "link": "https://news.yahoo.co.jp/pickup/6562590?source=rss",
+    "description": "",
+    "category": "sports",
+    "tags": [
+      "中日ドラゴンズ",
+      "ミゲル・サノ",
+      "プロ野球",
+      "新外国人"
+    ],
+    "pubDate": "2025-12-15 02:30:29",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 24,
+    "title": "J1広島 ガウル新監督の就任発表",
+    "link": "https://news.yahoo.co.jp/pickup/6562588?source=rss",
+    "description": "",
+    "category": "sports",
+    "tags": [
+      "J1広島",
+      "ガウル監督",
+      "監督就任",
+      "Jリーグ"
+    ],
+    "pubDate": "2025-12-15 02:25:13",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 25,
+    "title": "シドニー 銃撃事件から一夜 現場近くでは犠牲者に花を手向ける",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015003751000",
+    "description": "14日、オーストラリアのシドニー郊外のビーチで容疑者を含む16人が死亡した銃撃事件で、警察は2人の容疑者は親子でユダヤ系住民を狙ったテロだとして動機の解明を急いでいます。事件から一夜明け、現場近くには…",
+    "category": "sports",
+    "tags": [
+      "シドニー銃撃事件",
+      "テロ",
+      "ユダヤ系住民",
+      "追悼",
+      "オーストラリア"
+    ],
+    "pubDate": "2025-12-15 04:40:48",
+    "source": "nhk.or.jp"
+  },
+  {
+    "id": 26,
+    "title": "中国 11月の消費や生産指標 伸び鈍化 不動産投資も減少幅拡大",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015004141000",
+    "description": "中国の11月の消費や企業の生産の動向を示す指標はいずれも伸びが鈍化し、不動産開発への投資も減少幅が拡大しました。中国の指導部は2026年の経済運営の重点分野として内需拡大を最優先に掲げていますが、景気…",
+    "category": "sports",
+    "tags": [
+      "中国経済",
+      "景気減速",
+      "不動産投資",
+      "内需拡大"
+    ],
+    "pubDate": "2025-12-15 04:25:45",
+    "source": "nhk.or.jp"
+  },
+  {
+    "id": 27,
+    "title": "香港の新聞「リンゴ日報」創業者に有罪判決 現地の裁判所",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015004051000",
+    "description": "香港国家安全維持法違反などの罪に問われている香港の新聞「リンゴ日報」の創業者、黎智英氏に対し、現地の裁判所は15日、有罪判決を言い渡しました。量刑は後日、言い渡される予定ですが、中国政府が黎氏を香港の…",
+    "category": "sports",
+    "tags": [
+      "黎智英",
+      "香港",
+      "リンゴ日報",
+      "香港国家安全維持法",
+      "有罪判決"
+    ],
+    "pubDate": "2025-12-15 03:31:40",
+    "source": "nhk.or.jp"
+  },
+  {
+    "id": 28,
+    "title": "ルンバのメーカー「アイロボット」連邦破産法第11条の適用申請",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015004041000",
+    "description": "ロボット掃除機の「ルンバ」を手がけるアメリカの「アイロボット」が、競争の激化などから業績が低迷して経営に行き詰まり、14日、日本の民事再生法にあたる連邦破産法第11条の適用を申請したと発表しました。",
+    "category": "sports",
+    "tags": [
+      "アイロボット",
+      "ルンバ",
+      "破産法適用申請",
+      "ロボット掃除機",
+      "経営破綻"
+    ],
+    "pubDate": "2025-12-15 02:47:40",
+    "source": "nhk.or.jp"
+  },
+  {
+    "id": 29,
+    "title": "俳優の瀬戸さおり&宮崎秋人 結婚",
+    "link": "https://news.yahoo.co.jp/pickup/6562607?source=rss",
+    "description": "",
+    "category": "entertainment",
+    "tags": [
+      "瀬戸さおり",
+      "宮崎秋人",
+      "結婚",
+      "俳優"
+    ],
+    "pubDate": "2025-12-15 04:44:41",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 30,
+    "title": "山里亮太 フィリピンに子ども食堂",
+    "link": "https://news.yahoo.co.jp/pickup/6562596?source=rss",
+    "description": "",
+    "category": "entertainment",
+    "tags": [
+      "山里亮太",
+      "子ども食堂",
+      "フィリピン",
+      "国際支援",
+      "慈善活動"
+    ],
+    "pubDate": "2025-12-15 02:49:13",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 31,
+    "title": "べらぼう視聴率9.5% ワースト2位",
+    "link": "https://news.yahoo.co.jp/pickup/6562595?source=rss",
+    "description": "",
+    "category": "entertainment",
+    "tags": [
+      "視聴率",
+      "べらぼう",
+      "低視聴率",
+      "ワースト記録"
+    ],
+    "pubDate": "2025-12-15 02:48:31",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 32,
+    "title": "べらぼう エンタメ寄りにした意義",
+    "link": "https://news.yahoo.co.jp/pickup/6562592?source=rss",
+    "description": "",
+    "category": "entertainment",
+    "tags": [
+      "べらぼう",
+      "大河ドラマ",
+      "エンタメ志向",
+      "制作意図"
+    ],
+    "pubDate": "2025-12-15 02:37:29",
+    "source": "news.yahoo.co.jp"
+  },
+  {
+    "id": 33,
+    "title": "GRe4N BOYZが軽音大会「we are SNEAKER AGES」EDテーマ曲配信、GLAYのTERUも参加",
+    "link": "https://natalie.mu/music/news/652281",
+    "description": "GRe4N BOYZの新曲「星の詩」が本日12月15日に配信リリースされた。",
+    "category": "entertainment",
+    "tags": [
+      "GRe4N BOYZ",
+      "新曲",
+      "we are SNEAKER AGES",
+      "GLAY TERU"
+    ],
+    "pubDate": "",
+    "source": "natalie.mu"
+  },
+  {
+    "id": 34,
+    "title": "レトロリロン初のラブソング「僕だけの矛盾」MV公開、2人の切ない思いを描く",
+    "link": "https://natalie.mu/music/news/652283",
+    "description": "レトロリロンの最新曲「僕だけの矛盾」のミュージックビデオがYouTubeで公開された。",
+    "category": "entertainment",
+    "tags": [
+      "レトロリロン",
+      "僕だけの矛盾",
+      "MV",
+      "ラブソング",
+      "YouTube"
+    ],
+    "pubDate": "",
+    "source": "natalie.mu"
+  },
+  {
+    "id": 35,
+    "title": "STARGLOWのクリエイティビティ掘り下げる企画始動、第1弾はTAIKI＆GOICHIのサイファー",
+    "link": "https://natalie.mu/music/news/652291",
+    "description": "STARGLOWメンバーのクリエイティビティにフォーカスしたYouTube企画「SG LAB」が始動。第1弾として、TAIKIとGOICHIによるサイファー映像が公開された。",
+    "category": "entertainment",
+    "tags": [
+      "STARGLOW",
+      "SG LAB",
+      "TAIKI",
+      "GOICHI",
+      "サイファー"
+    ],
+    "pubDate": "",
+    "source": "natalie.mu"
+  },
+  {
+    "id": 36,
+    "title": "本日放送「CDTVライブ！ライブ！」クリスマス特番のタイムテーブル公開！星野源、スキズ、HANA、Perfume、なにわ男子の歌唱時間は",
+    "link": "https://natalie.mu/music/news/652256",
+    "description": "本日12月15日18:30より3時間半にわたって放送される、TBS系「CDTVライブ！ライブ！」の特番「クリスマスLOVE SONG Fes.」のタイムテーブルが発表された。",
+    "category": "entertainment",
+    "tags": [
+      "CDTVライブ！ライブ！",
+      "クリスマス特番",
+      "タイムテーブル公開",
+      "音楽番組"
+    ],
+    "pubDate": "",
+    "source": "natalie.mu"
+  }
+]
